@@ -1,0 +1,28 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python bytecode
+*.pyc
+
+# Ignore editor files
+.vscode/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ignore common OS files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment directory
+.venv
